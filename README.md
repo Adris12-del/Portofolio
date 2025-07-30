@@ -1,22 +1,26 @@
-# ✨ Portofolio NetBeans / VB.NET
+<h1 align="center">🚀 Portofolio Developer - Adris 👨‍💻</h1>
 
-Ini adalah proyek latihan Visual Basic dengan antarmuka form login, validasi input, dan koneksi dasar.
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visualstudio&logoColor=white" />
+</p>
 
-## 🔧 Fitur
-- Form login sederhana
-- Validasi input
-- Struktur folder rapi
+<p align="center">
+  ✨ Selamat datang di repositori <strong>Portofolio Developer</strong> saya!  
+  Di sini saya mengumpulkan berbagai proyek berbasis <strong>Visual Studio, PHP, HTML, CSS, dan JavaScript</strong>.
+</p>
 
-## 🧰 Tools
-- Visual Basic .NET
-- NetBeans / Visual Studio
-- .NET Framework 4.7.2
+---
 
-## 📸 Tampilan
-![Screenshot](https://via.placeholder.com/800x300.png?text=Form+Login+Screenshot)
+## 🌐 Tech Stack
 
-## 👤 Tentang Saya
-- Nama: Adris
-- GitHub: [Adris12-del](https://github.com/Adris12-del)
-- Email: keciltikus29@gmail.com
+```markdown
+💻 Visual Studio 2022
+🧠 PHP 8.x, HTML5, CSS3
+⚙️ JavaScript & DOM
+🎨 Bootstrap, Custom CSS
+🗃️ MySQL/MariaDB (untuk proyek backend)
+
 
