@@ -21,6 +21,6 @@
 🧠 PHP 8.x, HTML5, CSS3
 ⚙️ JavaScript & DOM
 🎨 Bootstrap, Custom CSS
-🗃️ MySQL/MariaDB (untuk proyek backend)
+🗃️ MySQL
 
 
